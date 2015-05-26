@@ -1,0 +1,5 @@
+name = "App-revealupp"
+badges = ["travis"]
+authority="cpan:DOKECHIN"
+[release]
+do_not_upload_to_cpan= true
