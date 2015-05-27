@@ -4,7 +4,7 @@
       "dokechin <>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v2.3.0, CPAN::Meta::Converter version 2.150001",
+   "generated_by" : "Minilla/v2.4.1, CPAN::Meta::Converter version 2.150001",
    "license" : [
       "perl_5"
    ],
@@ -65,6 +65,20 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/dokechin/app-revealupp/issues"
+      },
+      "homepage" : "https://github.com/dokechin/app-revealupp",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/dokechin/app-revealupp.git",
+         "web" : "https://github.com/dokechin/app-revealupp"
+      }
+   },
    "version" : "0.01",
-   "x_authority" : "cpan:DOKECHIN"
+   "x_authority" : "cpan:DOKECHIN",
+   "x_contributors" : [
+      "dokechin <user@user-PC.(none)>"
+   ]
 }

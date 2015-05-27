@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/dokechin/app-revealupp.svg?branch=master)](https://travis-ci.org/dokechin/app-revealupp)
 # NAME
 
 App::revealupp - It's new $module
