@@ -52,9 +52,10 @@ sub run {
     path($self->output)->spew_utf8($html);
     App::revealupp::util::info("Generated your HTML to @{[$self->output]}");
     my $reveal_path = App::revealupp::util::share_path([qw/share revealjs/]);
+    my $notes_speech_path = App::revealupp::util::share_path([qw/share notes-speech/]);
     App::revealupp::util::info("Copy command for the revealjs directory is:");
     App::revealupp::util::info("cp -r @{[$reveal_path->absolute]} ./revealjs");
-    App::revealupp::util::info("cp -r @{[$reveal_path->absolute]} ./notes-speech");
+    App::revealupp::util::info("cp -r @{[$notes_speech_path->absolute]} ./notes-speech");
 }
 
 1;

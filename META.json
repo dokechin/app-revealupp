@@ -76,7 +76,7 @@
          "web" : "https://github.com/dokechin/app-revealupp"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:DOKECHIN",
    "x_contributors" : [
       "dokechin <user@user-PC.(none)>"
