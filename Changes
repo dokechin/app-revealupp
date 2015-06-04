@@ -2,6 +2,10 @@ Revision history for Perl extension App-revealupp
 
 {{$NEXT}}
 
+0.03 2015-06-04T15:17:32Z
+
+    - support vagrant
+
 0.02 2015-06-03T14:39:46Z
 
     - change export html info 

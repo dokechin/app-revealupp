@@ -1,4 +1,5 @@
 /.build/
+/.vagrant/
 /_build/
 /Build
 /Build.bat
